@@ -28,4 +28,4 @@ An online examination system where users can login, update their profile, attemp
 - Java Swing (GUI)
 
 ## Author
-Mohammed Rehaan — Oasis Infobyte Java Development Intern
+Mohammed Rehaan
